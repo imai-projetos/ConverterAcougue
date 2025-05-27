@@ -8,7 +8,7 @@ import os
 st.set_page_config(page_title="Formatador de Inventário", page_icon="📊", layout="centered")
 
 # Logo da empresa
-st.image(r"C:\Users\proje\Downloads\Inventários Açougue\imaiempresas_logo.jpeg", width=200)
+st.image(r"https://github.com/imai-projetos/ConverterAcougue/blob/main/imaiempresas_logo.jpeg?raw=true", width=200)
 
 # Título do app
 st.title("📄 Formatador de Inventário do Açougue em Excel")
